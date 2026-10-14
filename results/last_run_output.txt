@@ -1,0 +1,10 @@
+Traceback (most recent call last):
+  File "/home/runner/work/simplex-pipeline/simplex-pipeline/./examples/run_pipeline.py", line 3, in <module>
+    from pipeline.orchestrator import SimplexSolver
+  File "/home/runner/work/simplex-pipeline/simplex-pipeline/pipeline/orchestrator.py", line 6
+    from .stages.01_parse import Parser
+                   ^
+SyntaxError: invalid decimal literal
+(example run failed — see log above)
+
+Recorded: 2026-10-14T15:54:42Z
