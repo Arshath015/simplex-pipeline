@@ -95,3 +95,10 @@ pytest -q
 
 ## License
 MIT License
+
+
+## Requirements
+
+```
+pip install -r requirements.txt
+```
