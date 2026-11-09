@@ -10,3 +10,6 @@ All notable changes to this project are documented here.
 
 ### 2026-11-08
 - Routine maintenance checkpoint.
+
+### 2026-11-09
+- Documentation pass for clarity and consistency.
